@@ -91,6 +91,10 @@ Tools: Jupyter Notebook
 
 Automate daily data scraping & updates
 
+## Acknowledgment
+This project was originally developed as part of CIS 9600 at Baruch College in collaboration with Kehsi and Mehfuza.
+
+
 Add interactive visualizations (Plotly/Seaborn)
 
 Expand API integration for broader financial metrics
